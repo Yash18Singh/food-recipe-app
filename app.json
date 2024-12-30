@@ -2,6 +2,7 @@
   "expo": {
     "name": "food-recipe-2",
     "slug": "food-recipe-2",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "newArchEnabled": true
   }
 }
