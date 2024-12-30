@@ -1,4 +1,4 @@
-![Demo Video](https://i.imgur.com/PSB7MnA.mp4](https://i.imgur.com/Gz6pumR.mp4)
+![Demo Video](https://i.imgur.com/Gz6pumR.mp4)
 ![SS1](https://imgur.com/7a7aff00-03e9-4616-a116-f3a2e7b0d5af)
 ![SS2](https://imgur.com/e40cb962-be3d-43ed-86b2-348c9e44fccf)
 ![SS3](https://imgur.com/984d5756-0fba-47d1-b073-8afbad4e7e48)
